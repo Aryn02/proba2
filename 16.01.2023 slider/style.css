@@ -1,0 +1,17 @@
+.your-class{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.slick-prev{
+    left: -10px;
+    background-color: red;
+}
+.slick-next{
+    right: -10px;
+    background-color: red;
+}
+
+.your-class div{
+    text-align: center;
+}
